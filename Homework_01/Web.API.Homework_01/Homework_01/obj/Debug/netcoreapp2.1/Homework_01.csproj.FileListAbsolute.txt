@@ -1,0 +1,14 @@
+C:\Users\Markovski\Desktop\Web.API.Homework_01\Homework_01\bin\Debug\netcoreapp2.1\Homework_01.deps.json
+C:\Users\Markovski\Desktop\Web.API.Homework_01\Homework_01\bin\Debug\netcoreapp2.1\Homework_01.runtimeconfig.json
+C:\Users\Markovski\Desktop\Web.API.Homework_01\Homework_01\bin\Debug\netcoreapp2.1\Homework_01.runtimeconfig.dev.json
+C:\Users\Markovski\Desktop\Web.API.Homework_01\Homework_01\bin\Debug\netcoreapp2.1\Homework_01.dll
+C:\Users\Markovski\Desktop\Web.API.Homework_01\Homework_01\obj\Debug\netcoreapp2.1\Homework_01.csproj.CoreCompileInputs.cache
+C:\Users\Markovski\Desktop\Web.API.Homework_01\Homework_01\obj\Debug\netcoreapp2.1\Homework_01.RazorAssemblyInfo.cache
+C:\Users\Markovski\Desktop\Web.API.Homework_01\Homework_01\obj\Debug\netcoreapp2.1\Homework_01.RazorAssemblyInfo.cs
+C:\Users\Markovski\Desktop\Web.API.Homework_01\Homework_01\obj\Debug\netcoreapp2.1\Homework_01.AssemblyInfoInputs.cache
+C:\Users\Markovski\Desktop\Web.API.Homework_01\Homework_01\obj\Debug\netcoreapp2.1\Homework_01.AssemblyInfo.cs
+C:\Users\Markovski\Desktop\Web.API.Homework_01\Homework_01\obj\Debug\netcoreapp2.1\Homework_01.RazorTargetAssemblyInfo.cache
+C:\Users\Markovski\Desktop\Web.API.Homework_01\Homework_01\bin\Debug\netcoreapp2.1\Homework_01.pdb
+C:\Users\Markovski\Desktop\Web.API.Homework_01\Homework_01\obj\Debug\netcoreapp2.1\Homework_01.dll
+C:\Users\Markovski\Desktop\Web.API.Homework_01\Homework_01\obj\Debug\netcoreapp2.1\Homework_01.pdb
+C:\Users\Markovski\Desktop\Web.API.Homework_01\Homework_01\obj\Debug\netcoreapp2.1\Homework_01.csprojAssemblyReference.cache
