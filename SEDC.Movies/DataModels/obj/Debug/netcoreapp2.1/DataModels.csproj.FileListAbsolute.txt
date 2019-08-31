@@ -1,0 +1,12 @@
+C:\Users\Markovski\Desktop\SEDC.Movies\DataModels\bin\Debug\netcoreapp2.1\DataModels.deps.json
+C:\Users\Markovski\Desktop\SEDC.Movies\DataModels\bin\Debug\netcoreapp2.1\DataModels.dll
+C:\Users\Markovski\Desktop\SEDC.Movies\DataModels\obj\Debug\netcoreapp2.1\DataModels.csprojAssemblyReference.cache
+C:\Users\Markovski\Desktop\SEDC.Movies\DataModels\obj\Debug\netcoreapp2.1\DataModels.csproj.CoreCompileInputs.cache
+C:\Users\Markovski\Desktop\SEDC.Movies\DataModels\obj\Debug\netcoreapp2.1\DataModels.AssemblyInfoInputs.cache
+C:\Users\Markovski\Desktop\SEDC.Movies\DataModels\obj\Debug\netcoreapp2.1\DataModels.AssemblyInfo.cs
+C:\Users\Markovski\Desktop\SEDC.Movies\DataModels\bin\Debug\netcoreapp2.1\DataModels.pdb
+C:\Users\Markovski\Desktop\SEDC.Movies\DataModels\bin\Debug\netcoreapp2.1\Models.dll
+C:\Users\Markovski\Desktop\SEDC.Movies\DataModels\bin\Debug\netcoreapp2.1\Models.pdb
+C:\Users\Markovski\Desktop\SEDC.Movies\DataModels\obj\Debug\netcoreapp2.1\DataModels.csproj.CopyComplete
+C:\Users\Markovski\Desktop\SEDC.Movies\DataModels\obj\Debug\netcoreapp2.1\DataModels.dll
+C:\Users\Markovski\Desktop\SEDC.Movies\DataModels\obj\Debug\netcoreapp2.1\DataModels.pdb
